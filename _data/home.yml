@@ -8,6 +8,9 @@ navbar_entries:
 
   - title: website
     url: https://rajdeepbiswas.github.io/
+    
+  - title: contact
+    url: mailto:rajdeepbiswasds@gmail.com
 
 project_entries:
   - title: A Tale of Three Cities
@@ -55,7 +58,7 @@ old_project_entries:
 
   - title: Hive and HDFS Automated Copy
     url: https://github.com/RajdeepBiswas/DataTransfer
-    desc: Generic HDFS data and Hive Database transfer automation between any environment(Production/QA/Development) utilizing Amazon S3 storage
+    desc: Generic HDFS data and Hive Database transfer automation between any environment (Production/QA/Development) utilizing Amazon S3 storage
     highlight: Hive, Shell
     
   - title: Hybrid Archive Storage
