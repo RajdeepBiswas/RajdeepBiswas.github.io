@@ -10,50 +10,58 @@ navbar_entries:
     url: https://rajdeepbiswas.github.io/
 
 project_entries:
-  - title: A-TALE-OF-THREE-CITIES
+  - title: A Tale of Three Cities
     url: https://github.com/microsoft/A-TALE-OF-THREE-CITIES
-    desc: This work came out of my research project in Bellevue University. 
-    highlight: R, SparkR, SparkSQL
+    desc: Time Series forecasting, Anomaly detection, Data visualization and descriptive analytics Datseton 3-1-1 call dataset from Chicago, Boston and New York city. 
+    highlight: R, SparkR, SparkSQL, AML
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Air Travel Safety Dashboard
+    url: https://github.com/RajdeepBiswas/AIR-TRAVEL-SAFETY-DASHBOARD
+    desc: Airline travel has been recently getting a lot of negative press promoting statistics stating air is no longer a safe way to travel especially when compared to automobiles. 
+    highlight: PowerBI
+    
+  - title: Find My Image
+    url: https://github.com/RajdeepBiswas/FindMyImage
+    desc: Use AI, Search and exhaust data mining to resize, arrange, tag, categorize, generate caption and search through all your images in a flash.
+    highlight: Python, REST
+    
+  - title: Process New Mexico Well Data
+    url: https://github.com/RajdeepBiswas/New_Mexico_Well_Data
+    desc: Process New Mexico Well Data
+    highlight: PySpark, Databricks, Azure
+    
+  - title: AI Enabled Image Bucketization
+    url: https://github.com/RajdeepBiswas/AI_Enabled_Image_Bucketization
+    desc: Bucketize an image based on exhaust data and AI generated data
+    highlight: Python, REST    
+    
+  - title: Chatbot in 10 minutes
+    url: https://github.com/RajdeepBiswas/Ten_Minute_ChatBot_Python
+    desc: Build a ChatBot in 10 minutes using Azure QnA Maker and Azure Bot Service v4
+    highlight: Python, REST, Azure Cognitive Services      
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Stock Market Predcition with S&P 500 Data
+    url: https://github.com/RajdeepBiswas/Stock_Market_Prediction_with_SnP500
+    desc: Predict the future price of a given stock, sector analysis, portfolio build
+    highlight: WIP, AML, Python, REST
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Encrypted Data Transfer
+    url: https://github.com/RajdeepBiswas/EncryptedDataTransfer
+    desc: HDFS Encrypted zone intra-cluster transfer automation
+    highlight: Hadoop, HDFS, Shell
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Hive and HDFS Automated Copy
+    url: https://github.com/RajdeepBiswas/DataTransfer
+    desc: Generic HDFS data and Hive Database transfer automation between any environment(Production/QA/Development) utilizing Amazon S3 storage
+    highlight: Hive, Shell
+    
+  - title: Hybrid Archive Storage
+    url: https://github.com/RajdeepBiswas/HybridArchiveStorage
+    desc: Decrease Hive and HDFS storage costs by using EBS and S3
+    highlight: Hive, Shell, S3    
 
 footer_entries:
   - title: Rajdeep's homepage
