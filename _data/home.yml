@@ -1,9 +1,9 @@
 navbar_entries:
   - title: about
-    url: about
+    desc: Hi I am Raj
 
   - title: blog
-    url: blog
+    url: https://inclusive-ai.medium.com/
 
   - title: website
     url: https://www.abhinav.co
