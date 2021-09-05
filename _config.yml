@@ -1,3 +1,4 @@
+collections: [sections]
 remote_theme: chrisbobbe/jekyll-theme-prologue
 title: Rajdeep Biswas
 description: Bookmark this page for end to end Machine LEarning and Big Data Projects
