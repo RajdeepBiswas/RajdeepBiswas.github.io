@@ -1,6 +1,6 @@
 navbar_entries:
   - title: about
-    url: false
+    url: about
     desc: Hi I am Raj
     
   - title: blog
