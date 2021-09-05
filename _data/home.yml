@@ -7,9 +7,6 @@ navbar_entries:
 
   - title: website
     url: https://rajdeepbiswas.github.io/
-    
-  - title: contact
-    url: mailto:rajdeepbiswasds@gmail.com
 
 project_entries:
   - title: A Tale of Three Cities
@@ -48,7 +45,6 @@ project_entries:
     highlight: WIP, AML, Python, REST
 
 
-
 old_project_entries:
   - title: Encrypted Data Transfer
     url: https://github.com/RajdeepBiswas/EncryptedDataTransfer
@@ -72,7 +68,7 @@ footer_entries:
   - title: LinkedIn
     url: https://www.linkedin.com/in/rajdeepbiswas/
 
-  - title: github
+  - title: Github
     url: https://github.com/RajdeepBiswas
 
   - title: feed
