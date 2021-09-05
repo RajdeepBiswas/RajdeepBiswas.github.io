@@ -12,9 +12,7 @@ navbar_entries:
 project_entries:
   - title: A-TALE-OF-THREE-CITIES
     url: https://github.com/microsoft/A-TALE-OF-THREE-CITIES
-    desc: This work came out of my research project in Bellevue University.
-    Time Series forecasting, Anomaly detection, Data visualization and descriptive analytics
-    on 3-1-1 call dataset from the cities Chicago, Boston and New York city.
+    desc: This work came out of my research project in Bellevue University. Time Series forecasting, Anomaly detection, Data visualization and descriptive analytics Datset: 3-1-1 call dataset from the cities Chicago, Boston and New York city.
     highlight: R, SparkR, SparkSQL
 
   - title: Project 2
