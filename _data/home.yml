@@ -1,6 +1,6 @@
 navbar_entries:
   - title: about
-    url: about
+    url: https://github.com/RajdeepBiswas/RajdeepBiswas.github.io/blob/main/about.md
     desc: Hi I am Raj
     
   - title: blog
