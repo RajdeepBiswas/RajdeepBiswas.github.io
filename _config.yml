@@ -1,7 +1,4 @@
-collections: [sections]
-remote_theme: chrisbobbe/jekyll-theme-prologue
+url: "https://rajdeepbiswas.github.io/" # the base hostname & protocol for your site
+remote_theme: abhinavs/moonwalk
 title: Rajdeep Biswas
 description: Bookmark this page for end to end Machine LEarning and Big Data Projects
-
-url: "https://rajdeepbiswas.github.io/" # the base hostname & protocol for your site
-
