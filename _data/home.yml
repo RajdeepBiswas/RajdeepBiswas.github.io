@@ -9,7 +9,7 @@ navbar_entries:
     url: https://rajdeepbiswas.github.io/
     
   - title: contact
-  url: mailto:rajdeepbiswasds@gmail.com
+    url: mailto:rajdeepbiswasds@gmail.com
 
 project_entries:
   - title: A Tale of Three Cities
