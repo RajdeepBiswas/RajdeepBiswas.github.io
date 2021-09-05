@@ -1,12 +1,13 @@
 navbar_entries:
   - title: about
+    url: false
     desc: Hi I am Raj
-
+    
   - title: blog
     url: https://inclusive-ai.medium.com/
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://rajdeepbiswas.github.io/
 
 project_entries:
   - title: Project 1
@@ -54,14 +55,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Rajdeep's homepage
+    url: https://rajdeepbiswas.github.io/
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rajdeepbiswas/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/RajdeepBiswas
 
   - title: feed
     url: feed.xml
