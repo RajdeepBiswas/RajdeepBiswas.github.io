@@ -15,5 +15,3 @@ Am engaged in multiple Data science initiatives from conception to production.
 Currently, I am a Director of Azure Data & AI in Microsoft, and my group focuses on the design and implementation of Big Data and Machine Learning problems.  
 
 Let us have the joy of learning together and looking forward to connecting with you.
-
-
