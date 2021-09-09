@@ -16,6 +16,11 @@ project_entries:
     url: https://github.com/microsoft/A-TALE-OF-THREE-CITIES
     desc: Time Series forecasting, Anomaly detection, Data visualization and descriptive analytics Datseton 3-1-1 call dataset from Chicago, Boston and New York city. 
     highlight: R, SparkR, SparkSQL, AML
+    
+  - title: Manufacturing-Quality-Inspection
+    url: https://github.com/RajdeepBiswas/Manufacturing-Quality-Inspection
+    desc: I have built the computer vision models in 3 different ways addressing different personas, because not all companies will have a resolute data science team.
+    highlight: Computer Vision, Tensorflow, AML  
 
   - title: Air Travel Safety Dashboard
     url: https://github.com/RajdeepBiswas/AIR-TRAVEL-SAFETY-DASHBOARD
