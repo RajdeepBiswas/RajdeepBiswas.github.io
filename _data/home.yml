@@ -17,11 +17,16 @@ project_entries:
     desc: Time Series forecasting, Anomaly detection, Data visualization and descriptive analytics Datseton 3-1-1 call dataset from Chicago, Boston and New York city. 
     highlight: R, SparkR, SparkSQL, AML
     
-  - title: Manufacturing-Quality-Inspection
+  - title: Manufacturing Quality Inspection
     url: https://github.com/RajdeepBiswas/Manufacturing-Quality-Inspection
     desc: I have built the computer vision models in 3 different ways addressing different personas, because not all companies will have a resolute data science team.
     highlight: Computer Vision, Tensorflow, AML  
 
+  - title: Movies Data Consortium
+    url: https://github.com/RajdeepBiswas/Movies-Data-Consortium
+    desc: Movies data consortium by blending a file data store sourced from the Movies Dataset hosted in Kaggle, website data from Wikipedia and API data from themoviedb.org.
+    highlight: Python, AML, Blob  
+    
   - title: Air Travel Safety Dashboard
     url: https://github.com/RajdeepBiswas/AIR-TRAVEL-SAFETY-DASHBOARD
     desc: Airline travel has been recently getting a lot of negative press promoting statistics stating air is no longer a safe way to travel especially when compared to automobiles. 
