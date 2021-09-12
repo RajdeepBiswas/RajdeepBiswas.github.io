@@ -27,6 +27,11 @@ project_entries:
     desc: Movies data consortium by blending a file data store sourced from the Movies Dataset hosted in Kaggle, website data from Wikipedia and API data from themoviedb.org.
     highlight: Python, AML, Blob  
     
+  - title: EDA and Sentiment Analysis
+    url: https://github.com/RajdeepBiswas/Complete-EDA-and-Sentiment-Analysis
+    desc: In depth EDA, Sentiment Analysis Model Building Evaluation and Selection, Model deployment.
+    highlight: PySpark, SparkSQL, SQL      
+    
   - title: Stock Market Predcition with S&P 500 Data
     url: https://github.com/RajdeepBiswas/Stock_Market_Prediction_with_SnP500
     desc: Predict the future price of a given stock, sector analysis, portfolio build
