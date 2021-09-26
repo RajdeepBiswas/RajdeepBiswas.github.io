@@ -12,6 +12,11 @@ navbar_entries:
     url: mailto:rajdeepbiswasds@gmail.com
 
 project_entries:
+  - title: Stock Market Predcition with S&P 500 Data
+    url: https://github.com/RajdeepBiswas/Stock_Market_Prediction_with_SnP500
+    desc: Predict the future price of a given stock, time series analysis, stock screener
+    highlight: AML, Python, REST, AUTOML
+    
   - title: A Tale of Three Cities
     url: https://github.com/microsoft/A-TALE-OF-THREE-CITIES
     desc: Time Series forecasting, Anomaly detection, Data visualization and descriptive analytics Datseton 3-1-1 call dataset from Chicago, Boston and New York city. 
@@ -27,15 +32,10 @@ project_entries:
     desc: Movies data consortium by blending a file data store sourced from the Movies Dataset hosted in Kaggle, website data from Wikipedia and API data from themoviedb.org.
     highlight: Python, AML, Blob  
     
-  - title: EDA and Sentiment Analysis
+  - title: Yelp EDA and Sentiment Analysis
     url: https://github.com/RajdeepBiswas/Complete-EDA-and-Sentiment-Analysis
     desc: In depth EDA, Sentiment Analysis Model Building Evaluation and Selection, Model deployment.
     highlight: PySpark, SparkSQL, SQL      
-    
-  - title: Stock Market Predcition with S&P 500 Data
-    url: https://github.com/RajdeepBiswas/Stock_Market_Prediction_with_SnP500
-    desc: Predict the future price of a given stock, sector analysis, portfolio build
-    highlight: WIP, AML, Python, REST
     
   - title: Air Travel Safety Dashboard
     url: https://github.com/RajdeepBiswas/AIR-TRAVEL-SAFETY-DASHBOARD
