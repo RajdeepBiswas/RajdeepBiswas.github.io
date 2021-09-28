@@ -17,6 +17,11 @@ project_entries:
     desc: Predict the future price of a given stock, time series analysis, stock screener
     highlight: AML, Python, REST, AUTOML
     
+  - title: Stock News Sentiment Analysis
+    url: https://github.com/RajdeepBiswas/Stock_News_Sentiment_Analysis
+    desc: Scrub the stock related news and perform sentiment analysis on that.
+    highlight: WIP, NLP, AML   
+    
   - title: A Tale of Three Cities
     url: https://github.com/microsoft/A-TALE-OF-THREE-CITIES
     desc: Time Series forecasting, Anomaly detection, Data visualization and descriptive analytics Datseton 3-1-1 call dataset from Chicago, Boston and New York city. 
