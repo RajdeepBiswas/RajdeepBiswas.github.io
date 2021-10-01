@@ -17,8 +17,8 @@ project_entries:
     desc: Predict the future price of a given stock, time series analysis, stock screener
     highlight: AML, Python, REST, AUTOML
     
-  - title: Stock News Sentiment Analysis
-    url: https://github.com/RajdeepBiswas/Stock_News_Sentiment_Analysis
+  - title: Stock Sentiment Analysis
+    url: https://github.com/RajdeepBiswas/Stock_Sentiment_Analysis
     desc: Scrub the stock related news and perform sentiment analysis on that.
     highlight: WIP, NLP, AML   
     
