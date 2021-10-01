@@ -15,12 +15,7 @@ project_entries:
   - title: Stock Market Predcition with S&P 500 Data
     url: https://github.com/RajdeepBiswas/Stock_Market_Prediction_with_SnP500
     desc: Predict the future price of a given stock, time series analysis, stock screener
-    highlight: AML, Python, REST, AUTOML
-    
-  - title: Stock Sentiment Analysis
-    url: https://github.com/RajdeepBiswas/Stock_Sentiment_Analysis
-    desc: Scrub the stock related news and perform sentiment analysis on that.
-    highlight: WIP, NLP, AML   
+    highlight: AML, Python, REST, AUTOML 
     
   - title: A Tale of Three Cities
     url: https://github.com/microsoft/A-TALE-OF-THREE-CITIES
@@ -46,6 +41,11 @@ project_entries:
     url: https://github.com/RajdeepBiswas/AIR-TRAVEL-SAFETY-DASHBOARD
     desc: Airline travel has been recently getting a lot of negative press promoting statistics stating air is no longer a safe way to travel especially when compared to automobiles. 
     highlight: PowerBI
+    
+  - title: Stock Sentiment Analysis
+    url: https://github.com/RajdeepBiswas/Stock_Sentiment_Analysis
+    desc: Scrub the stock related news and perform sentiment analysis on that.
+    highlight: WIP, NLP, AML  
     
   - title: Find My Image
     url: https://github.com/RajdeepBiswas/FindMyImage
