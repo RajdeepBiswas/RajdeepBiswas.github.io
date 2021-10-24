@@ -26,6 +26,11 @@ project_entries:
     url: https://github.com/RajdeepBiswas/Manufacturing-Quality-Inspection
     desc: I have built the computer vision models in 3 different ways addressing different personas, because not all companies will have a resolute data science team.
     highlight: Computer Vision, Tensorflow, AML  
+    
+  - title: Stock Sentiment Analysis
+    url: https://github.com/RajdeepBiswas/Stock_Sentiment_Analysis
+    desc: Scrub the stock news RSS feed and perform sentiment analysis on that.
+    highlight: NLP, AML      
 
   - title: Movies Data Consortium
     url: https://github.com/RajdeepBiswas/Movies-Data-Consortium
@@ -41,11 +46,6 @@ project_entries:
     url: https://github.com/RajdeepBiswas/AIR-TRAVEL-SAFETY-DASHBOARD
     desc: Airline travel has been recently getting a lot of negative press promoting statistics stating air is no longer a safe way to travel especially when compared to automobiles. 
     highlight: PowerBI
-    
-  - title: Stock Sentiment Analysis
-    url: https://github.com/RajdeepBiswas/Stock_Sentiment_Analysis
-    desc: Scrub the stock related news and perform sentiment analysis on that.
-    highlight: WIP, NLP, AML  
     
   - title: Find My Image
     url: https://github.com/RajdeepBiswas/FindMyImage
