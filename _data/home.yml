@@ -6,7 +6,7 @@ navbar_entries:
     url: /about
     
   - title: Blog
-    url: https://inclusive-ai.medium.com/
+    url: https://inclusive-ai.medium.com/"target="_blank
 
 project_entries:
   - title: Stock Market Predcition with S&P 500 Data
