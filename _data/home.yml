@@ -81,14 +81,11 @@ old_project_entries:
     highlight: Hive, Shell, S3    
 
 footer_entries:
-  - title: Home
-    url: https://rajdeepbiswas.github.io/
-
   - title: LinkedIn
-    url: https://www.linkedin.com/in/rajdeepbiswas/
+    url: https://www.linkedin.com/in/rajdeepbiswas/"target="_blank
 
   - title: Github
-    url: https://github.com/RajdeepBiswas
+    url: https://github.com/RajdeepBiswas/"target="_blank
     
   - title: Contact
     url: mailto:rajdeepbiswasds@gmail.com    
