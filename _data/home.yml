@@ -1,15 +1,12 @@
 navbar_entries:
-  - title: about
-    url: /about
-    
-  - title: blog
-    url: https://inclusive-ai.medium.com/
-
-  - title: website
+  - title: Home
     url: https://rajdeepbiswas.github.io/
     
-  - title: contact
-    url: mailto:rajdeepbiswasds@gmail.com
+  - title: About
+    url: /about
+    
+  - title: Blog
+    url: https://inclusive-ai.medium.com/
 
 project_entries:
   - title: Stock Market Predcition with S&P 500 Data
@@ -67,7 +64,6 @@ project_entries:
     desc: Build a ChatBot in 10 minutes using Azure QnA Maker and Azure Bot Service v4
     highlight: Python, REST, Azure Cognitive Services      
 
-
 old_project_entries:
   - title: Encrypted Data Transfer
     url: https://github.com/RajdeepBiswas/EncryptedDataTransfer
@@ -85,7 +81,7 @@ old_project_entries:
     highlight: Hive, Shell, S3    
 
 footer_entries:
-  - title: Rajdeep's homepage
+  - title: Home
     url: https://rajdeepbiswas.github.io/
 
   - title: LinkedIn
@@ -93,8 +89,11 @@ footer_entries:
 
   - title: Github
     url: https://github.com/RajdeepBiswas
+    
+  - title: Contact
+    url: mailto:rajdeepbiswasds@gmail.com    
 
-  - title: feed
+  - title: Feed
     url: feed.xml
 
 misc_entries:
