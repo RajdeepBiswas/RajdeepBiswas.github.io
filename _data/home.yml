@@ -24,12 +24,12 @@ project_entries:
     desc: I have built the computer vision models in 3 different ways addressing different personas, because not all companies will have a resolute data science team.
     highlight: Computer Vision, Tensorflow, AML  
     
-   - title: MLOps with AzureML and Azure Pipelines
+  - title: MLOps with AzureML and Azure Pipelines
     url: https://github.com/RajdeepBiswas/MLOpsPy
     desc: MLOps to build a Continuous Integration and Continuous Delivery pipeline for an ML/AI project.
     highlight: WIP, AML, Python, REST, Azure DevOPS    
 
-   - title: MLOps with AzureML and GitHub Actions
+  - title: MLOps with AzureML and GitHub Actions
     url: https://github.com/RajdeepBiswas/mlops-github-actions
     desc: MLOps to build a Continuous Integration and Continuous Delivery pipeline for an ML/AI project.
     highlight: WIP, AML, Python, REST, GitHub Actions    
