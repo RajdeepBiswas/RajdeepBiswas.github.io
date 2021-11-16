@@ -27,12 +27,12 @@ project_entries:
   - title: MLOps with AzureML and Azure Pipelines
     url: https://github.com/RajdeepBiswas/MLOpsPy
     desc: MLOps to build a Continuous Integration and Continuous Delivery pipeline for an ML/AI project.
-    highlight: WIP, AML, Python, REST, Azure DevOPS    
+    highlight: AML, Python, REST, Azure DevOPS    
 
   - title: MLOps with AzureML and GitHub Actions
     url: https://github.com/RajdeepBiswas/mlops-github-actions
     desc: MLOps to build a Continuous Integration and Continuous Delivery pipeline for an ML/AI project.
-    highlight: WIP, AML, Python, REST, GitHub Actions    
+    highlight: AML, Python, REST, GitHub Actions    
     
   - title: Stock Sentiment Analysis
     url: https://github.com/RajdeepBiswas/Stock_Sentiment_Analysis
