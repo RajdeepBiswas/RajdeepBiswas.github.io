@@ -6,7 +6,7 @@ comments: true
 ---
 I have over 15 years of hands-on experience and leading high-performance teams in distributed data processing and data science space. Currently, I work as the Director of Data & AI, Azure at Microsoft where we solve complex business problems using Distributed Computing (Hadoop/Spark), Internet of Things (IoT) , Data Lake, Data Mesh, SQL/NoSQL , Data Warehousing, Business Intelligence and Machine Learning, MLOps by collaborating with cross-functional teams.   
    
-Preciously I worked at Hortonworks as a Lead Solution Architect, where I architected and deployed multi petabyte scale greenfield/brownfield Hadoop, Spark and MPP Datawarehouse environments on premise, cloud, and hybrid.   
+Previously I worked at Hortonworks as a Lead Solution Architect, where I architected and deployed multi petabyte scale greenfield/brownfield Hadoop, Spark and MPP Datawarehouse environments on premise, cloud, and hybrid.   
   
 I am deeply passionate about creating loved and trusted data solutions that empower businesses make knowledgeable decisions without compromising the trust and security.   
     
