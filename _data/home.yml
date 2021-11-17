@@ -9,7 +9,7 @@ navbar_entries:
     url: https://inclusive-ai.medium.com/"target="_blank
 
 project_entries:
-  - title: Stock Market Predcition with S&P 500 Data
+  - title: Stock Market Prediction with S&P 500 Data
     url: https://github.com/RajdeepBiswas/Stock_Market_Prediction_with_SnP500
     desc: Predict the future price of a given stock, time series analysis, stock screener
     highlight: AML, Python, REST, AUTOML 
