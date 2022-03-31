@@ -21,7 +21,7 @@ project_entries:
     
   - title: Manufacturing Quality Inspection
     url: https://github.com/RajdeepBiswas/Manufacturing-Quality-Inspection
-    desc: I have built the computer vision models in 3 different ways addressing different personas, because not all companies will have a resolute data science team.
+    desc: Have built the computer vision models in 3 different ways addressing different personas, because not all companies will have a resolute data science team.
     highlight: Computer Vision, Tensorflow, AML  
     
   - title: MLOps with AzureML and Azure Pipelines
