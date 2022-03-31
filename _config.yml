@@ -2,8 +2,8 @@ title: Rajdeep Biswas
 author: Rajdeep Biswas
 url: https://rajdeepbiswas.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  This site hosts my work on data analytics and machine learning. 
-  Please feel free to bookmark and reuse as you like.
+  This site hosts some of Rajdeep's work on data analytics and machine learning. 
+  Please feel free to bookmark and reuse as you prefer with or without attribution.
 permalink: /:slug.html
 
 favicon: "./logo.png" # relative path to site's favicon
