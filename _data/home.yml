@@ -8,6 +8,9 @@ navbar_entries:
   - title: Blog
     url: https://inclusive-ai.medium.com/"target="_blank
 
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rajdeepbiswas/"target="_blank    
+
 project_entries:
   - title: Stock Market Prediction with S&P 500 Data  
     url: https://github.com/RajdeepBiswas/Stock_Market_Prediction_with_SnP500
