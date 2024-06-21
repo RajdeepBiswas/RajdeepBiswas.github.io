@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: Project
 tags: [project]
 comments: true
