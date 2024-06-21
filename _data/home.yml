@@ -8,16 +8,15 @@ navbar_entries:
   - title: Projects
     url: /project
     entries:
-      project_entries:
-        - title: Stock Market Prediction with S&P 500 Data  
-          url: https://github.com/RajdeepBiswas/Stock_Market_Prediction_with_SnP500
-          desc: Predict the future price of a given stock, time series analysis, stock screener
-          highlight: AML, Python, REST, AUTOML 
-          
-        - title: A Tale of Three Cities
-          url: https://github.com/microsoft/A-TALE-OF-THREE-CITIES
-          desc: Time Series forecasting, Anomaly detection, Data visualization and descriptive analytics Datseton 3-1-1 call dataset from Chicago, Boston and New York city. 
-          highlight: R, SparkR, SparkSQL, AML
+      - title: Stock Market Prediction with S&P 500 Data  
+        url: https://github.com/RajdeepBiswas/Stock_Market_Prediction_with_SnP500
+        desc: Predict the future price of a given stock, time series analysis, stock screener
+        highlight: AML, Python, REST, AUTOML 
+        
+      - title: A Tale of Three Cities
+        url: https://github.com/microsoft/A-TALE-OF-THREE-CITIES
+        desc: Time Series forecasting, Anomaly detection, Data visualization and descriptive analytics Datseton 3-1-1 call dataset from Chicago, Boston and New York city. 
+        highlight: R, SparkR, SparkSQL, AML
     
   - title: Blog
     url: https://inclusive-ai.medium.com/"target="_blank
