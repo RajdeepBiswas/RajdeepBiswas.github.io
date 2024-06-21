@@ -4,6 +4,9 @@ navbar_entries:
     
   - title: About
     url: /about
+
+  - title: Projects
+    url: /project.md
     
   - title: Blog
     url: https://inclusive-ai.medium.com/"target="_blank
